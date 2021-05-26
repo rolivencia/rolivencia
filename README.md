@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <div style="min-width: 200px; max-width: 400px; margin-left: 16px">
         <h2>My interests & hobbies</h2>
         <div>
-            <p>🗺️ Counter-Strike Level Design since 2003</p>
+            <p>🗺️ Counter-Strike Level Designer since 2003</p>
             <p>🎙️️ Choir Singer at <a url="https://www.youtube.com/channel/UCA0O1r-yInmktEcVwjDKnrw">Coral Gloriana</a></p>
         </div>
     </div>
