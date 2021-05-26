@@ -14,24 +14,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div class="container" style="display:flex;">
-    <div style="min-width: 200px; max-width: 400px">
-        <h2>About Me</h2>
-        <div>
-            <p> 😄 Pronouns: he/him</p>
-            <p>🔭 Currently working as Research & Development Consultant at KBC Advanced Technologies</p>
-            <p>📫 How to reach me: <a url="https://twitter.com/rolivenc">@rolivenc</a> on Twitter</p>
-        </div>
-    </div>
-    <div style="min-width: 200px; max-width: 400px; margin-left: 16px">
-        <h2>My interests & hobbies</h2>
-        <div>
-            <p>🗺️ Counter-Strike Level Designer since 2003</p>
-            <p>🎙️️ Choir Singer at <a url="https://www.youtube.com/channel/UCA0O1r-yInmktEcVwjDKnrw">Coral Gloriana</a></p>
-        </div>
-    </div>
-</div>
+## About Me:
+😄 Pronouns: he/him.
 
+💻 Currently working as Research & Development Consultant at [KBC (A Yokogawa Company)](https://www.kbc.global/).
+
+🛠️ I specialize in Angular and TypeScript as my current core technologies. I'm also a devoted agilist and I'm a [Certified Scrum Master](https://github.com/rolivencia/rolivencia/blob/main/csm-certificate.pdf). 
+
+🌱I’m currently learning about [Sanity](https://sanity.io) content platform and the [NGRX](https://ngrx.io/) state management library. 
+
+📚 I obtained a BD in Information Systems Analysis from the Universidad Tecnológica Nacional. I'm currently finishing my ED in Information Systems Engineering. I have 8+ years of experience in the IT industry.
+
+📫 You can reach me at [@rolivenc](https://twitter.com/rolivenc) on Twitter, you can send me an email to [ramiro@olivencia.com.ar](mailto:ramiro@olivencia.com.ar) or you can take an a more in-depth look of my professional career at my [LinkedIn](https://www.linkedin.com/in/rolivencia/) profile.
+
+## My hobbies & interests:
+
+📚 Currently learning about Norse Mythology in Centre Of Excellence's [Norse Mythology Diploma](https://www.centreofexcellence.com/course/norse-mythology-diploma).
+
+🗺️ Counter-Strike Level Designer since 2003. Finished projects can be found in my repositories.
+
+🎙️️ Choir Singer at [Coral Gloriana](https://www.youtube.com/channel/UCA0O1r-yInmktEcVwjDKnrw) since 2014.
+
+📽️ Cinephile.
+
+🧱 LEGO enthusiast.
+
+🦖 Dinosaur lover.
+
+-----
+
+## My Github stats:
 
 [![Ramiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=rolivencia)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rolivencia&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 
