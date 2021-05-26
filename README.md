@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## My hobbies & interests:
 
-📚 Currently learning about Norse Mythology in Centre Of Excellence's [Norse Mythology Diploma](https://www.centreofexcellence.com/course/norse-mythology-diploma). Finished MOOC courses on Egyptology and Paleobiology in 2020.
+📚 Currently learning about Norse Mythology in Centre Of Excellence's [Norse Mythology Diploma](https://www.centreofexcellence.com/course/norse-mythology-diploma). [Egyptology](https://es.coursera.org/learn/egypt) from the Universidad Autónoma de Barcelona and [Dino 101: Dinosaur Paleobiology](https://es.coursera.org/learn/dino101?) by University of Alberta were the last two MOOC courses I took.
 
 🗺️ Counter-Strike Level Designer since 2003. Finished projects can be found in my repositories.
 
