@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## About Me:
 😄 Pronouns: he/him.
 
-💻 Currently working as Research & Development Consultant at [KBC (A Yokogawa Company)](https://www.kbc.global/).
+💻 Currently filling the Scrum Master and Research & Development Consultant roles at [KBC (A Yokogawa Company)](https://www.kbc.global/).
 
 🛠️ I specialize in Angular and TypeScript as my current core technologies. I'm also a devoted agilist and I'm a [Certified Scrum Master](https://github.com/rolivencia/rolivencia/blob/main/csm-certificate.pdf). 
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 🎙️️ Choir Singer at [Coral Gloriana](https://www.youtube.com/channel/UCA0O1r-yInmktEcVwjDKnrw) since 2014.
 
-📽️ Cinephile. "Sunset Blvd.". by Billy Wilder, is my favourite movie.
+📽️ Cinephile. "Sunset Blvd.", by Billy Wilder, is my favourite movie.
 
 🧱 LEGO enthusiast.
 
