@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 💻 Currently filling the Scrum Master and Research & Development Consultant roles at [KBC (A Yokogawa Company)](https://www.kbc.global/).
 
-🛠️ I specialize in Angular and TypeScript as my current core technologies. I'm also a devoted agilist and I'm a [Certified Scrum Master](https://github.com/rolivencia/rolivencia/blob/main/csm-certificate.pdf). 
+🛠️ I specialize in Angular and TypeScript as my current core technologies. I'm also a devoted agilist and a [Certified Scrum Master](https://github.com/rolivencia/rolivencia/blob/main/csm-certificate.pdf). 
 
 🌱I’m currently learning about the [Sanity](https://sanity.io) content platform and the [NGRX](https://ngrx.io/) state management library. 
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## My hobbies & interests:
 
-📚 Currently learning about Norse Mythology in Centre Of Excellence's [Norse Mythology Diploma](https://www.centreofexcellence.com/course/norse-mythology-diploma). [Egyptology](https://es.coursera.org/learn/egypt) from the Universidad Autónoma de Barcelona and [Dino 101: Dinosaur Paleobiology](https://es.coursera.org/learn/dino101?) by University of Alberta were the last two MOOC courses I took.
+📚 Currently learning about Norse Mythology in Centre Of Excellence's [Norse Mythology Diploma](https://www.centreofexcellence.com/course/norse-mythology-diploma). The [Egyptology](https://es.coursera.org/learn/egypt) course from the Universidad Autónoma de Barcelona and [Dino 101: Dinosaur Paleobiology](https://es.coursera.org/learn/dino101?) by the University of Alberta were the last two MOOC courses I took.
 
 🗺️ Counter-Strike Level Designer since 2003. Finished projects can be found in my repositories.
 
