@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## About Me:
 😄 Pronouns: he/him.
 
-💻 Currently filling the Scrum Master and Research & Development Consultant roles at [KBC (A Yokogawa Company)](https://www.kbc.global/).
+💻 Currently filling the Angular Tech Lead, Scrum Master and R&D Consultant roles at [KBC (A Yokogawa Company)](https://www.kbc.global/).
 
 🛠️ I specialize in Angular and TypeScript as my current core technologies. I'm also a devoted agilist and a [Certified Scrum Master](https://github.com/rolivencia/rolivencia/blob/main/csm-certificate.pdf). 
 
