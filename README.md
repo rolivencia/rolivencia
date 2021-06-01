@@ -19,7 +19,7 @@ At my GitHub repositories you will find some personal projects that I develop in
 
 📚 Currently learning about Norse Mythology in Centre Of Excellence's [Norse Mythology Diploma](https://www.centreofexcellence.com/course/norse-mythology-diploma). The [Egyptology](https://es.coursera.org/learn/egypt) course from the Universidad Autónoma de Barcelona and [Dino 101: Dinosaur Paleobiology](https://es.coursera.org/learn/dino101?) by the University of Alberta were the last two MOOC courses I took.
 
-🗺️ Counter-Strike Level Designer since 2003. Finished projects can be found in my repositories.
+🗺️ Counter-Strike Level Designer since 2003. Finished projects can be found in my repositories. I'm known for developing the de_dust2 spinoff map "de_dust2_largo" in 2005, which is worldwide known and won me [this interview at PCGamesN magazine](https://www.pcgamesn.com/counter-strike-global-offensive/de_dust2_long) in 2020.
 
 🎙️️ Choir Singer at [Coral Gloriana](https://www.youtube.com/channel/UCA0O1r-yInmktEcVwjDKnrw) since 2014.
 
