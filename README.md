@@ -9,7 +9,7 @@ At my GitHub repositories you will find some personal projects that I develop in
 
 🛠️ I specialize in Angular and TypeScript as my current core technologies. I'm also a devoted agilist and a [Certified Scrum Master](https://github.com/rolivencia/rolivencia/blob/main/csm-certificate.pdf). 
 
-🌱I’m currently learning about the [Sanity](https://sanity.io) content platform and the [NGRX](https://ngrx.io/) state management library. 
+🌱I’m currently learning about the [Sanity](https://sanity.io) content platform and the [NGRX](https://ngrx.io/) state management library. I'm also taking the [Just Javascript](https://justjavascript.com/) course by Dan Abramov.
 
 📚 I obtained a BD in Information Systems Analysis from the Universidad Tecnológica Nacional. I'm currently finishing my ED in Information Systems Engineering. I have 8+ years of experience in the IT industry.
 
