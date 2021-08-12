@@ -7,7 +7,7 @@ At my GitHub repositories you will find some personal projects that I develop in
 
 💻 Currently filling the Angular Tech Lead, Scrum Master and R&D Consultant roles at [KBC (A Yokogawa Company)](https://www.kbc.global/).
 
-🛠️ I specialize in Angular and TypeScript as my current core technologies. I'm also a devoted agilist and a [Certified Scrum Master](https://github.com/rolivencia/rolivencia/blob/main/csm-certificate.pdf). 
+🛠️ I specialize in Angular and TypeScript as my current core technologies. I'm also a devoted agilist and a [Certified Scrum Master](https://github.com/rolivencia/rolivencia/blob/main/csm-certificate.pdf). Kanban, Scrum and Essence are the main software development frameworks I've worked with.
 
 🌱I’m currently learning about the [Sanity](https://sanity.io) content platform and the [NGRX](https://ngrx.io/) state management library. I'm also taking the [Just Javascript](https://justjavascript.com/) course by Dan Abramov.
 
