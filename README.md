@@ -9,7 +9,7 @@ At my GitHub repositories you will find some personal projects that I develop in
 
 🛠️ I specialize in Angular and TypeScript as my current core technologies. I'm also a devoted agilist and a [Certified Scrum Master](https://github.com/rolivencia/rolivencia/blob/main/csm-certificate.pdf). Kanban, Scrum and Essence are the main software development frameworks I've worked with.
 
-🌱I’m currently learning about the [Sanity](https://sanity.io) content platform and [NX](https://nx.dev/) monorepo toolkit. I'm also taking the [Just Javascript](https://justjavascript.com/) course by Dan Abramov.
+🌱I’m currently learning about the [Sanity](https://sanity.io) content platform and [NX](https://nx.dev/) monorepo toolkit.
 
 📚 I obtained a BD in Information Systems Analysis from the Universidad Tecnológica Nacional. I'm currently finishing my ED in Information Systems Engineering. I have 8+ years of experience in the IT industry.
 
@@ -17,7 +17,7 @@ At my GitHub repositories you will find some personal projects that I develop in
 
 ## My hobbies & interests:
 
-📚 Currently taking the [Just Javascript](https://www.coursera.org/learn/the-science-of-well-being/home/welcome) course by Dan Abramov. Looking forward to complete the [Science of Well-being](https://www.coursera.org/learn/the-science-of-well-being/home/welcome) course offered by Yale University at Coursera.
+📚 Currently taking  the [Science of Well-being](https://www.coursera.org/learn/the-science-of-well-being/home/welcome) course offered by Yale University at Coursera. I'm also hosting the "#CuentosDeVerano" collective reading of shorts stories in spanish via Twitter, through the "La Cuentoneta" app, available at https://cuentosdeverano.ar
 
 🗺️ Counter-Strike Level Designer since 2003, currently on an indefinite hiatus. Finished projects can be found in my repositories. I'm known for developing the de_dust2 spinoff map "de_dust2_largo" in 2005, which is worldwide known and won me [this interview at PCGamesN magazine](https://www.pcgamesn.com/counter-strike-global-offensive/de_dust2_long) in 2020.
 
