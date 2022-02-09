@@ -11,7 +11,7 @@ At my GitHub repositories you will find some personal projects that I develop in
 
 🌱I’m currently learning about the [Sanity](https://sanity.io) content platform and [NX](https://nx.dev/) monorepo toolkit.
 
-📚 I obtained a BD in Information Systems Analysis from the Universidad Tecnológica Nacional. I'm currently finishing my ED in Information Systems Engineering. I have 8+ years of experience in the IT industry.
+📚 I obtained a BD in Information Systems Analysis from the Universidad Tecnológica Nacional. I'm currently finishing my ED in Information Systems Engineering. I have 9+ years of experience in the IT industry.
 
 📫 You can reach me at [@rolivenc](https://twitter.com/rolivenc) on Twitter, you can send me an email to [ramiro@olivencia.com.ar](mailto:ramiro@olivencia.com.ar) or you can get a a more in-depth look of my professional career and creedentials at my [LinkedIn](https://www.linkedin.com/in/rolivencia/) profile.
 
