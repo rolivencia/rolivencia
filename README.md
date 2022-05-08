@@ -9,11 +9,11 @@ At my GitHub repositories you will find some personal projects that I develop in
 
 🛠️ I specialize in Angular and TypeScript as my current core technologies. I'm also a devoted agilist and a [Certified Scrum Master](https://github.com/rolivencia/rolivencia/blob/main/csm-certificate.pdf). Kanban, Scrum and Essence are the main software development frameworks I've worked with.
 
-🌱I’m currently learning about the [Sanity](https://sanity.io) content platform and [NX](https://nx.dev/) monorepo toolkit.
+🌱I’m currently learning about the [Sanity](https://sanity.io) content platform and the [NX](https://nx.dev/) monorepo toolkit.
 
 📚 I obtained a BD in Information Systems Analysis from the Universidad Tecnológica Nacional. I'm currently finishing my ED in Information Systems Engineering. I have 9+ years of experience in the IT industry.
 
-📫 You can reach me at [@rolivenc](https://twitter.com/rolivenc) on Twitter, you can send me an email to [ramiro@olivencia.com.ar](mailto:ramiro@olivencia.com.ar) or you can get a a more in-depth look of my professional career and creedentials at my [LinkedIn](https://www.linkedin.com/in/rolivencia/) profile.
+📫 You can reach me at [@rolivenc](https://twitter.com/rolivenc) on Twitter, you can send me an email to [ramiro@olivencia.com.ar](mailto:ramiro@olivencia.com.ar) or you can get a a more in-depth look of my professional career and credentials at my [LinkedIn](https://www.linkedin.com/in/rolivencia/) profile.
 
 ## My hobbies & interests:
 
