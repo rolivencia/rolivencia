@@ -17,11 +17,11 @@ At my GitHub repositories you will find some personal projects that I develop in
 
 ## My hobbies & interests:
 
-📚 Currently taking  the [Science of Well-being](https://www.coursera.org/learn/the-science-of-well-being/home/welcome) course offered by Yale University at Coursera. I'm also hosting the "#CuentosDeVerano" collective reading of shorts stories in spanish via Twitter, through the "La Cuentoneta" app, available at https://cuentosdeverano.ar
+📚 Just finished taking [The Science of Well-being](https://www.coursera.org/learn/the-science-of-well-being/home/welcome) course offered by Yale University at Coursera and [The Agile Samurai Bootcamp](https://www.udemy.com/course/the-agile-samurai-bootcamp) course. I'm starting to widen my knowledge in Design Patterns and Object-Oriented Analysis and Design.
 
-🗺️ Counter-Strike Level Designer since 2003, currently on an indefinite hiatus. Finished projects can be found in my repositories. I'm known for developing the de_dust2 spinoff map "de_dust2_largo" in 2005, which is worldwide known and won me [this interview at PCGamesN magazine](https://www.pcgamesn.com/counter-strike-global-offensive/de_dust2_long) in 2020.
+🗺️ Counter-Strike Level Designer since 2003, currently on an indefinite hiatus. Finished projects can be found in my repositories. I'm known for developing the de_dust2 spinoff map "de_dust2_largo" in 2005, which is known worldwide and won me [this interview at PCGamesN magazine](https://www.pcgamesn.com/counter-strike-global-offensive/de_dust2_long) in 2020.
 
-🎙️️ Choir Singer at [Coral Gloriana](https://www.youtube.com/channel/UCA0O1r-yInmktEcVwjDKnrw) since 2014.
+🎙️️ I'm a baritone singer at [Coral Gloriana](https://www.youtube.com/channel/UCA0O1r-yInmktEcVwjDKnrw) since 2014.
 
 📽️ Cinephile. "Sunset Blvd." (1950), by Billy Wilder, is my favourite movie.
 
