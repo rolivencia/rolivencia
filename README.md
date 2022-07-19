@@ -23,7 +23,7 @@ At my GitHub repositories you will find some personal projects that I develop in
 
 🎙️️ I'm a baritone singer at [Coral Gloriana](https://www.youtube.com/channel/UCA0O1r-yInmktEcVwjDKnrw) since 2014.
 
-📽️ Cinephile. "Sunset Blvd." (1950), by Billy Wilder, is my favourite movie.
+📽️ Cinephile. "Sunset Blvd." (1950), by Billy Wilder, is my favourite movie. I'm a Letterboxd user and you check my profile [at this link](https://letterboxd.com/mapper/).
 
 🧱 LEGO enthusiast.
 
