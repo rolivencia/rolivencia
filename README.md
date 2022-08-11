@@ -17,7 +17,7 @@ At my GitHub repositories you will find some personal projects that I develop in
 
 ## My hobbies & interests:
 
-📚 Just finished taking [The Science of Well-being](https://www.coursera.org/learn/the-science-of-well-being/home/welcome) course offered by Yale University at Coursera and [The Agile Samurai Bootcamp](https://www.udemy.com/course/the-agile-samurai-bootcamp) course. I'm starting to widen my knowledge in Design Patterns and Object-Oriented Analysis and Design.
+📚 Working through [Chuck Cobb's Agile Project Manager course curricula](https://www.udemy.com/user/chuckcobb2/) and currently reading [A Philosophy of Software Design](https://www.goodreads.com/en/book/show/39996759-a-philosophy-of-software-design), by John Ousterhout. I'm starting to widen my knowledge in Design Patterns and Object-Oriented Analysis and Design.
 
 🗺️ Counter-Strike Level Designer since 2003, currently on an indefinite hiatus. Finished projects can be found in my repositories. I'm known for developing the de_dust2 spinoff map "de_dust2_largo" in 2005, which is known worldwide and won me [this interview at PCGamesN magazine](https://www.pcgamesn.com/counter-strike-global-offensive/de_dust2_long) in 2020.
 
