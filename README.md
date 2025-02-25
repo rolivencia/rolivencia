@@ -5,7 +5,7 @@ At my GitHub repositories you will find some personal projects that I develop in
 ## About Me:
 😄 Pronouns: he/him.
 
-💻 Currently working as a Senior Frontend Engineer at [Latch](https://www.latch.com/).
+💻 Currently working as a Senior Frontend Engineer at [Door](https://www.door.com/).
 
 🛠️ I specialize in Angular and TypeScript as my current core technologies. I'm also a devoted agilist and a [Certified Scrum Master](https://github.com/rolivencia/rolivencia/blob/main/csm-certificate.pdf). Kanban, Scrum and Essence are the main software development frameworks I've worked with.
 
