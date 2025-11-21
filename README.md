@@ -3,7 +3,6 @@
 At my GitHub repositories you will find some personal projects that I develop in my free time outside of my main job position. Feel free to take a look, to ask questions and to send PRs if you wish to do so. Some of my projects are still private and are waiting for proper documentation to be released as open source.
 
 ## About Me:
-😄 Pronouns: he/him.
 
 💻 Currently working as a Lead Frontend Engineer at [Taller Technologies](https://taller.us/).
 
